@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".forgotpass">
+
+    <TextView
+        android:id="@+id/textView16"
+        android:layout_width="431dp"
+        android:layout_height="232dp"
+        android:layout_marginBottom="33dp"
+        android:background="#323232"
+        app:layout_constraintBottom_toTopOf="@+id/forgot_no"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/LOGIN"
+        android:layout_width="386dp"
+        android:layout_height="48dp"
+        android:layout_marginTop="100dp"
+
+        android:layout_marginBottom="14dp"
+        android:text="FORGOT PASSWORD"
+        android:textAlignment="center"
+        android:textColor="#FF4B20"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/textView15"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <EditText
+        android:id="@+id/forgot_no"
+        android:layout_width="271dp"
+        android:layout_height="57dp"
+        android:layout_marginBottom="16dp"
+        android:ems="10"
+        android:hint="enter_registered_mobile_no"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        app:layout_constraintBottom_toTopOf="@+id/forgot_btn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/forgot_btn"
+        android:layout_width="130dp"
+        android:layout_height="45dp"
+        android:layout_gravity="start"
+        android:layout_marginBottom="408dp"
+        android:background="@drawable/rounded_corners_1"
+        android:backgroundTint="#F44336"
+        android:contextClickable="true"
+
+        android:text="SEND"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView15"
+        android:layout_width="365dp"
+        android:layout_height="52dp"
+        android:layout_marginBottom="48dp"
+        android:background="#00FFFFFF"
+        android:text="You will get an SMS on your registered number"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toTopOf="@+id/forgot_no"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.507"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView16"
+        app:layout_constraintVertical_bias="0.764" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

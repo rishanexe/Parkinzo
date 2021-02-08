@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Parkinzo</string>
+
+
+    <!--    <string name="c_r_i_m_e_s">C.R.I.M.E.S.</string>-->
+
+
+    <string name="crime_reporting_intelligent_map_enabled_system"><![CDATA[Crime Reporting & Intelligent Map Enabled System]]></string>
+    <string name="bg">bg</string>
+    <string name="logo1">logo</string>
+    <string name="logo2">logo</string>
+
+    <string name="sign_up">SIGNUP</string>
+    <string name="title_activity_login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="log_in">Log in</string>
+    <string name="haven_t_registered_yet">Haven\'t registered yet ?</string>
+    <string name="Sign_Up">Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="email_id">Email ID</string>
+    <string name="confirm_new_password">Confirm new password</string>
+    <string name="new_password">New Password</string>
+    <string name="reset">RESET</string>
+    <string name="already_have_an_account">Already have an account ?</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email_id">Enter email id</string>
+    <string name="enter_mobile_no">Enter mobile no</string>
+    <string name="enter_dob">Enter DOB</string>
+    <string name="register">Register</string>
+    <string name="Sign_Up2">Sign up</string>
+    <string name="enter_city">Enter city</string>
+    <string name="enter_state">Enter State</string>
+    <string name="last_name">Last name</string>
+    <string name="register1">REGISTER</string>
+    <string name="first_name">First name</string>
+    <string name="enter_aadhar_number">Enter Aadhar number</string>
+    <string name="_91">+91</string>
+    <string name="otp">OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="enter_registered_email_id">Enter registered email id</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_password2">Enter Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="prefix1">+91-</string>
+
+
+    <string name="title_activity_map">Map</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="map_activity">Map Activity</string>
+    <string name="my_profile">My Profile</string>
+    <string name="settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="hello_user">Hello User</string>
+    <string name="welcome_to_c_r_i_m_e_s">Welcome to C.R.I.M.E.S.</string>
+    <string name="logout">Logout</string>
+    <string name="Parkinzo">Parkinzo</string>
+    <string name="todo">TODO</string>
+    <string name="Parkinzo1">Never be upset at No Parking zone, just Parkinzo-ne</string>
+
+    <string name="don_t_have_an_account">Don\'t have an account ?</string>
+    <string name="title_activity_home">Home</string>
+    <string name="log_out">Log out</string>
+    <string name="rent_us">Rent us</string>
+    <string name="enter_full_address">Enter Full Address</string>
+    <string name="amenities">Amenities</string>
+    <string name="handicap_wheels">Handicap wheels</string>
+    <string name="charging_port">Charging port</string>
+    <string name="cctv">CCTV</string>
+    <string name="enter_vehicle_capacity">Enter vehicle capacity</string>
+    <string name="submit">Submit</string>
+    <string name="types_of_amenities">Types of amenities</string>
+    <string name="wi_fi">Wi-Fi</string>
+    <string name="enter_city_name">Enter city name</string>
+    <string name="back">Back</string>
+    <string name="rent_your_space">Rent your Space</string>
+    <string name="nikhil_patil">Nikhil Patil</string>
+    <string name="enter_vehicle_count">Enter vehicle count</string>
+    <string name="i_agree_all_the_t_c"><![CDATA[I agree all the T&C]]></string>
+    <string name="rent">Rent</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="textview">TextView</string>
+    <string name="profile">Profile</string>
+    <string name="enter_place_name">Enter Place Name</string>
+    <string name="marker_title">Marker Title</string>
+    <string name="details">DETAILS</string>
+    <string name="Details">Details</string>
+    <string name="reserve">Reserve</string>
+    <string name="description">Description</string>
+    <string name="cancel">CANCEL</string>
+    <string name="done">DONE</string>
+    <string name="please_share_otp_with_renter">Please share OTP with renter</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124139820997",
+    "firebase_url": "https://parkinzo-43eaa.firebaseio.com",
+    "project_id": "parkinzo-43eaa",
+    "storage_bucket": "parkinzo-43eaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124139820997:android:a2162f30b62a2dc00f1dac",
+        "android_client_info": {
+          "package_name": "com.parkinzoin.parkinzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124139820997-bsg0n7f01be2jh9kr0dcj26cpf35h23u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3tZioyEeqoX7PG87JLcQBtSneOkSMqkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124139820997-bsg0n7f01be2jh9kr0dcj26cpf35h23u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
